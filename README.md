@@ -6,10 +6,6 @@ Samples demonstrating how to use
 
 This repo contains the following samples:
 
-1. [ApiDemos](ApiDemos): A collection of small demos showing most features of the Google Maps Android API. (This was formally part of the Google Play Services SDK.)
-1. [WearOS](WearOS):
-Displays a map on a Wear OS device. This sample demonstrates the basic
-setup required for a gradle-based Android Studio project.
 1. [Tutorials](https://github.com/googlemaps/android-samples/tree/master/tutorials): Samples
 associated with tutorials in the developer's guide. See each sample for a link to the associated
 guide.
